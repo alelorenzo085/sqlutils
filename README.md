@@ -1,2 +1,3 @@
-# sqlutils
-Utilidades de SQL
+## Ejercicio sqlutils
+
+En el presente repositorio no se presentan enunciados.
