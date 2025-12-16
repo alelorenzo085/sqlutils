@@ -4,9 +4,9 @@
 
     <groupId>edu.acceso.sqlutils</groupId>
     <artifactId>sqlutils</artifactId>
-    <name>sqlutils</name>
+    <name>SQLUtils</name>
     <description>Utilidades para el acceso a bases de datos SQL con JDBC</description>
-    <version>2.3.0</version>
+    <version>1.0</version>
 
     <developers>
         <developer>
